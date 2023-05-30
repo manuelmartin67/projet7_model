@@ -1,6 +1,7 @@
 # projet7_model
 
 Projet pour Openclassrooms formation Data Scientist
+
 Notebook pour l'élaboration d'un modèle pour réaliser un scoring client (classification binaire)
 
 ## Données
