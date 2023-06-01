@@ -1,0 +1,16 @@
+artifact_uri: /Users/manuelmartin67/Documents/Formation Data Scientist - Openclassrooms/Projet
+  7/Projet/projet7_model/mlruns/0/078ab12dd0c443af808aa75a9b6a2074/artifacts
+end_time: 1685441331523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 078ab12dd0c443af808aa75a9b6a2074
+run_name: LGBM
+run_uuid: 078ab12dd0c443af808aa75a9b6a2074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685441295532
+status: 3
+tags: []
+user_id: manuelmartin67

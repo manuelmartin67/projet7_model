@@ -1,0 +1,16 @@
+artifact_uri: /Users/manuelmartin67/Documents/Formation Data Scientist - Openclassrooms/Projet
+  7/Projet/projet7_model/mlruns/0/d9e2550ffbcd4de4ba81089155b0290c/artifacts
+end_time: 1685432361134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9e2550ffbcd4de4ba81089155b0290c
+run_name: Dummy Classifier
+run_uuid: d9e2550ffbcd4de4ba81089155b0290c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685432353740
+status: 3
+tags: []
+user_id: manuelmartin67

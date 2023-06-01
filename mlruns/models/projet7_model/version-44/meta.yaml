@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1685427181556
+current_stage: None
+description: null
+last_updated_timestamp: 1685427181556
+name: projet7_model
+run_id: 459f7d10cf004c90bd64227126dd162b
+run_link: null
+source: /Users/manuelmartin67/Documents/Formation Data Scientist - Openclassrooms/Projet
+  7/Projet/projet7_model/mlruns/0/459f7d10cf004c90bd64227126dd162b/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 44

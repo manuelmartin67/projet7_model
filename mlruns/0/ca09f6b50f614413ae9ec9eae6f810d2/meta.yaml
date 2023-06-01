@@ -1,0 +1,16 @@
+artifact_uri: /Users/manuelmartin67/Documents/Formation Data Scientist - Openclassrooms/Projet
+  7/Projet/projet7_model/mlruns/0/ca09f6b50f614413ae9ec9eae6f810d2/artifacts
+end_time: 1685112290570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca09f6b50f614413ae9ec9eae6f810d2
+run_name: Logistic Regression
+run_uuid: ca09f6b50f614413ae9ec9eae6f810d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685112281556
+status: 3
+tags: []
+user_id: manuelmartin67

@@ -1,0 +1,16 @@
+artifact_uri: /Users/manuelmartin67/Documents/Formation Data Scientist - Openclassrooms/Projet
+  7/Projet/projet7_model/mlruns/0/c89746ab2b664253853c96af9b885e4e/artifacts
+end_time: 1685441108336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c89746ab2b664253853c96af9b885e4e
+run_name: Random Forest
+run_uuid: c89746ab2b664253853c96af9b885e4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685441043549
+status: 3
+tags: []
+user_id: manuelmartin67
