@@ -1,9 +1,10 @@
 artifact_uri: /Users/manuelmartin67/Documents/Formation Data Scientist - Openclassrooms/Projet
   7/Projet/projet7_model/mlruns/0/9e78737b2fd643ed94bcd8f8979e12a4/artifacts
+deleted_time: 1685623411423
 end_time: 1685441209168
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9e78737b2fd643ed94bcd8f8979e12a4
 run_name: LGBM
 run_uuid: 9e78737b2fd643ed94bcd8f8979e12a4

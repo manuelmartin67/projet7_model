@@ -1,9 +1,10 @@
 artifact_uri: /Users/manuelmartin67/Documents/Formation Data Scientist - Openclassrooms/Projet
   7/Projet/projet7_model/mlruns/0/fbeeeffa6cb046d3b6ee251398f5d087/artifacts
+deleted_time: 1685622821169
 end_time: 1685432938852
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fbeeeffa6cb046d3b6ee251398f5d087
 run_name: Logistic Regression
 run_uuid: fbeeeffa6cb046d3b6ee251398f5d087

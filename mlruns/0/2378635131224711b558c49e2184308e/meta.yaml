@@ -1,9 +1,10 @@
 artifact_uri: /Users/manuelmartin67/Documents/Formation Data Scientist - Openclassrooms/Projet
   7/Projet/projet7_model/mlruns/0/2378635131224711b558c49e2184308e/artifacts
+deleted_time: 1685622905621
 end_time: 1685113403815
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2378635131224711b558c49e2184308e
 run_name: Random Forest
 run_uuid: 2378635131224711b558c49e2184308e

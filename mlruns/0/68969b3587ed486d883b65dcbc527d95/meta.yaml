@@ -1,9 +1,10 @@
 artifact_uri: /Users/manuelmartin67/Documents/Formation Data Scientist - Openclassrooms/Projet
   7/Projet/projet7_model/mlruns/0/68969b3587ed486d883b65dcbc527d95/artifacts
+deleted_time: 1685622766398
 end_time: 1685432928646
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 68969b3587ed486d883b65dcbc527d95
 run_name: Dummy Classifier
 run_uuid: 68969b3587ed486d883b65dcbc527d95
