@@ -1,1 +1,0 @@
-{'clf__num_leaves': array([   4,  259,  514,  769, 1024]), 'clf__max_depth': array([ 2,  4,  6,  8, 10]), 'clf__min_data_in_leaf': array([  100,  2575,  5050,  7525, 10000])}

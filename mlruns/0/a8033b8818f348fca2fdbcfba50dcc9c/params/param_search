@@ -1,1 +1,0 @@
-{'clf__n_estimators': [15, 16], 'clf__criterion': ['gini'], 'clf__max_depth': [4, 5], 'clf__min_samples_split': range(5, 6), 'clf__min_samples_leaf': [20, 21], 'clf__max_features': range(9, 10)}

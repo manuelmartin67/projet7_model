@@ -1,1 +1,0 @@
-{'f1': 'f1_macro', 'fbeta': make_scorer(fbeta_score, beta=10), 'roc_auc': make_scorer(roc_auc_score)}
